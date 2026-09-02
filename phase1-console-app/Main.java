@@ -1,9 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        String customerName = "Kamal";
-        double balance = 500.0;
-        boolean isActive = true;
-        System.out.println("Customer: " + customerName);
-        System.out.println("Balance: " + balance);
+        Account acc1 = new Account("Kamal", 500.0);
+        Account acc2 = new Account("Sara",1200.0);
+
+        acc1.printDetails();
+        System.out.println("---");
+        acc2.printDetails();
     }
 }
