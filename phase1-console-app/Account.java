@@ -1,12 +1,37 @@
 public class Account {
-    String ownerName;
-    double balance;
-    boolean isActive;
+    private String ownerName;
+    private double balance;
+    private boolean isActive;
 
     public Account(String ownerName, double balance) {
         this.ownerName = ownerName;
         this.balance = balance;
         this.isActive = true;
+    }
+
+    public void deposit(double amount) {
+        if (amount <= 0) {
+            System.out.println("Deposit amount must be positive");
+            return;
+        }
+        balance = balance + amount;
+        System.out.println("Deposited " + amount + ". New Balance: " + balance);
+    }
+
+    public void withdraw(double amount) {
+        if (amount <= 0) {
+            System.out.println("Withdraw amount must be positive");
+            return;
+        }
+        if (amount > balance) {
+            System.out.println("Insufficient funds. Current balance: " + balance);
+            return;
+        }
+        balance = balance - amount;
+        System.out.println("Withdraw " + amount + ". New Balance: " + balance);
+    }
+    public double getBalance() {
+        return balance;
     }
 
     public void printDetails() {
