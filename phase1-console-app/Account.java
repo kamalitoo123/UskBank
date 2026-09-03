@@ -20,12 +20,10 @@ public class Account {
 
     public void withdraw(double amount) {
         if (amount <= 0) {
-            System.out.println("Withdraw amount must be positive");
-            return;
+            throw new IllegalArgumentException("Withdrawal amount must be positive.");
         }
         if (amount > balance) {
-            System.out.println("Insufficient funds. Current balance: " + balance);
-            return;
+            throw new IllegalStateException("Insufficient funds. Current balance: " + balance);
         }
         balance = balance - amount;
         System.out.println("Withdraw " + amount + ". New Balance: " + balance);
