@@ -32,7 +32,7 @@ While the original idea centered on students, the same needs apply across the un
 
 ## Project Status
 
-🚧 **In active development — built as a learn-by-building project.**
+🚧 **In active development built as a learn-by-building project.**
 
 This project is being rebuilt from the ground up as a way to relearn core software engineering fundamentals properly: OOP, databases, REST APIs, authentication, and frontend development, all applied to one real system rather than isolated exercises.
 
