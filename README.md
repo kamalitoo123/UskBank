@@ -4,7 +4,7 @@
 
 ## The Idea
 
-Üsküdar University already partners with a local bank so students can pay their annual tuition. But tuition payment is just one small piece of a student's financial life and for many students, especially international ones, that's where the support ends. Opening and managing a traditional bank account in Turkey can be difficult for international students, who often face extra requirements and barriers that don't exist for locals. As a result, many end up relying on separate digital banking apps just to handle everyday money — completely disconnected from anything the university offers.
+Üsküdar University already partners with a local bank so students can pay their annual tuition. But tuition payment is just one small piece of a student's financial life and for many students, especially international ones, that's where the support ends. Opening and managing a traditional bank account in Turkey can be difficult for international students, who often face extra requirements and barriers that don't exist for locals. As a result, many end up relying on separate digital banking apps just to handle everyday money completely disconnected from anything the university offers.
 
 UskBank starts from that gap: what if a student's everyday banking and their university-related payments lived in the same place?
 
