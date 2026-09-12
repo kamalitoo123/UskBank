@@ -4,13 +4,13 @@
 
 ## The Idea
 
-Üsküdar University already partners with a local bank so students can pay their annual tuition. But tuition payment is just one small piece of a student's financial life — and for many students, especially international ones, that's where the support ends. Opening and managing a traditional bank account in Turkey can be difficult for international students, who often face extra requirements and barriers that don't exist for locals. As a result, many end up relying on separate digital banking apps just to handle everyday money — completely disconnected from anything the university offers.
+Üsküdar University already partners with a local bank so students can pay their annual tuition. But tuition payment is just one small piece of a student's financial life and for many students, especially international ones, that's where the support ends. Opening and managing a traditional bank account in Turkey can be difficult for international students, who often face extra requirements and barriers that don't exist for locals. As a result, many end up relying on separate digital banking apps just to handle everyday money — completely disconnected from anything the university offers.
 
 UskBank starts from that gap: what if a student's everyday banking and their university-related payments lived in the same place?
 
-The goal isn't just to replace a tuition payment portal — it's to give the university community a real financial home: depositing and withdrawing money, transferring funds, tracking spending, and managing recurring payments or subscriptions, alongside university-specific payments, all in one system.
+The goal isn't just to replace a tuition payment portal it's to give the university community a real financial home: depositing and withdrawing money, transferring funds, tracking spending, and managing recurring payments or subscriptions, alongside university-specific payments, all in one system.
 
-While the original idea centered on students, the same needs apply across the university — teachers and staff manage money too. UskBank is designed to serve the whole community, with services adapted to each group's needs.
+While the original idea centered on students, the same needs apply across the university teachers and staff manage money too. UskBank is designed to serve the whole community, with services adapted to each group's needs.
 
 ## Features (Vision)
 
